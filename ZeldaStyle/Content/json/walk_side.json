@@ -1,0 +1,67 @@
+{
+  "Name": "walk_side",
+  "FrameCount": 10,
+  "FrameData": [
+    {
+      "X": 2,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 25,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 48,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 71,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 94,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 117,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 140,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 163,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 186,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    },
+    {
+      "X": 209,
+      "Y": 33,
+      "Width": 23,
+      "Height": 25
+    }
+  ],
+  "FPS": 30.0
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "stand",
+  "FrameCount": 3,
+  "FrameData": [
+    {
+      "X": 201,
+      "Y": 1,
+      "Width": 18,
+      "Height": 25
+    },
+	{
+      "X": 237,
+      "Y": 3,
+      "Width": 18,
+      "Height": 25
+    },    
+    {
+      "X": 265,
+      "Y": 3,
+      "Width": 18,
+      "Height": 25
+    }    
+  ],
+  "FPS": 30.0
+}

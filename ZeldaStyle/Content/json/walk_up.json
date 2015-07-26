@@ -1,0 +1,67 @@
+{
+  "Name": "walk_up",
+  "FrameCount": 10,
+  "FrameData": [
+    {
+      "X": 9,
+      "Y": 63,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 41,
+      "Y":63,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 73,
+      "Y": 61,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 105,
+      "Y": 61,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 137,
+      "Y": 61,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 169,
+      "Y": 63,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 201,
+      "Y": 63,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 233,
+      "Y": 61,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 265,
+      "Y": 62,
+      "Width": 18,
+      "Height": 25
+    },
+    {
+      "X": 297,
+      "Y": 61,
+      "Width": 18,
+      "Height": 25
+    }
+  ],
+  "FPS": 30.0
+}
